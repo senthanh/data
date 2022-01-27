@@ -3,13 +3,23 @@
         
         {
             "tukhoa": "điện ảnh",
-            "tusapxep": "n/ệ/n/ả/h/đ/i",
+            "tusapxep": "n/ệ/n/ả/h/Đ/i",
             "suggestions": "đ... ả..."
+        },
+        {
+            "tukhoa": "bốc đồng",
+            "tusapxep": "g/đ/ồ/c/B/ố/n",
+            "suggestions": "B... đ..."
         }, 
+         {
+            "tukhoa": "ốc vít",
+            "tusapxep": "c/í/Ố/t/v",
+            "suggestions": "Ố... v..."
+        },
         {
             "tukhoa": "lọ cồn",
-            "tusapxep": "c/ọ/l/ồ/n",
-            "suggestions": "l... c..."
+            "tusapxep": "c/ọ/L/ồ/n",
+            "suggestions": "L... c..."
         }
     ]
 }
