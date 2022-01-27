@@ -1,14 +1,15 @@
 {
     "vuatiengviet": [
+        
         {
             "tukhoa": "điện ảnh",
             "tusapxep": "n/ệ/n/ả/h/đ/i",
-            "suggestions": "đ... ả...",
+            "suggestions": "đ... ả..."
         }, 
         {
             "tukhoa": "lọ cồn",
             "tusapxep": "c/ọ/l/ồ/n",
-            "suggestions": "l... c...",
+            "suggestions": "l... c..."
         }
     ]
 }
